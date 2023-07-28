@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Jogos
+#Aulas Estatística
 
 > Status do projeto: Em desenvolvimento
 
